@@ -1,7 +1,7 @@
 export const KEYS = {
   pakasir: {
-    project: "WilzzOrder",
-    apiKey: "QSl1iHQodFLg7Bc3gjsROfvJxgWY3UQl",
+    project: "danzx-hosting",
+    apiKey: "d54P1geSlEAoz0sa9lsyhNox6PkhLHuO",
     baseUrl: "https://app.pakasir.com/api",
   },
 
